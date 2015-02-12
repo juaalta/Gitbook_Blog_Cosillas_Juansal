@@ -14,3 +14,4 @@ En esta página he creado una relación de las entradas del blog con su fecha de
 | 15 de septiembre de 2010 | Lectura de ficheros INI sin secciones con Inno Setup desde código |
 | 16 de septiembre de 2010 | Lectura de ficheros INI sin secciones con Inno Setup desde código (continuación) |
 | 21 de octubre de 2010 | Desactivación de Unity de las máquinas virtuales de VMware Workstation |
+
