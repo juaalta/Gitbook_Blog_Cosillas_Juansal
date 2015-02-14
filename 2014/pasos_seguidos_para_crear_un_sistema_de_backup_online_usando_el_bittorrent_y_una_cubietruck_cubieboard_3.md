@@ -2,7 +2,7 @@
 
 ## Consideraciones iniciales sobre el documento
 
-En este documento se detallan los pasos seguidos para instalar el Lubuntu en una Cubietruck (Cubieboard 3) y el BitTorrent Sync.  
+En este documento se detallan los pasos seguidos para instalar el Lubuntu en una Cubietruck (Cubieboard 3) y el BitTorrent Sync.
 Los pasos detallados son los que yo he seguido y que a mí me han funcionado.
 En mi caso en la tarjeta SD está el sistema operativo y las aplicaciones, en el disco duro sólo se encuentran los ficheros del BitTorrent Sync.
 
@@ -161,7 +161,7 @@ nano /etc/init.d/btsync
 ```
 
 El contenido del fichero `/etc/init.d/btsync` es el siguiente:
-```
+``` bash
 #! /bin/sh
 ### BEGIN INIT INFO
 # Provides: btsync
@@ -282,6 +282,10 @@ service btsync start
 # Información obtenida de:
 
 [Instalación del linux en la SD](http://docs.cubieboard.org/tutorials/ct1/installation/install_lubuntu_desktop_server_to_sd_card)
+
 [Configuración del linux](https://www.imai-solutions.com/cubieboard-lubuntu)
+
 [Configuración del bittorrent sync](http://quadfinity.blogspot.com.es/2013/11/Install-BitTorrent-Sync-on-Cubieboard-A10.html)
+
 [Fstab](https://help.ubuntu.com/community/Fstab)
+
