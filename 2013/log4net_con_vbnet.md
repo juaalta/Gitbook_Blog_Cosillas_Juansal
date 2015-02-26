@@ -4,7 +4,7 @@ Para poder utilizar el Log4net en una aplicación de VB.NET se han de seguir los
 
 Añadir el log4net a las referencias del proyecto.
 
-La inicialización de Log4NET se realiza incluyendo la siguiente llamada en el fichero `AssemblyInfo.cs`:
+La inicialización de Log4NET se realiza incluyendo la siguiente llamada en el fichero `AssemblyInfo.vb`:
 
 ``` xml
 <Assembly: log4net.Config.XmlConfigurator(ConfigFile:="Configuracion.log4net", Watch:=True)>
