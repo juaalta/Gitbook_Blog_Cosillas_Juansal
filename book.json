@@ -8,8 +8,8 @@
 	
     "links": {
         "sidebar": {
-            "Cosillas de Juansal": "http://www.juansal.com",
-			"Blog Cosillas de Juansal": "http://blog.juansal.com"
+	    "Blog Cosillas de Juansal": "http://blog.juansal.com",
+            "Cosillas de Juansal": "http://www.juansal.com"
         }
     },
 	
@@ -17,6 +17,8 @@
         "toc": true,
         "pageNumbers": true,
         "paperSize": "a4"
-    }
+    },
+    "language": "es"
+    
 	
 }
