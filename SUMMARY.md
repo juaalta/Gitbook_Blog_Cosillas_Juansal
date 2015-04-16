@@ -32,6 +32,7 @@
    * [Información sobre temperatura y discos duros en la cubietruck (cubieboard 3)](2014/informacion_sobre_temperatura_y_discos_duros_en_la_cubietruck_cubieboard_3.md)
 * [2015](2015/README.md)
    * [Markdown](2015/markdown.md)
+   * [Máquina virtual para trabajar con documentos en Markdown](2015/maquina_virtual_para_trabajar_con_documentos_en_markdown.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de Firefox](secciones_adicionales/plugins_de_firefox.md)
