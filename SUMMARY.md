@@ -35,6 +35,7 @@
    * [Máquina virtual para trabajar con documentos en Markdown](2015/maquina_virtual_para_trabajar_con_documentos_en_markdown.md)
    * [Añadir a un usuario los permisos de sudo en Fedora](2015/anadir_a_un_usuario_los_permisos_de_sudo_en_fedora.md)
    * [Instalación y primeros pasos con Haroopress](2015/instalacion_y_primeros_pasos_con_haroopress.md)
+   * [Formato de datos de Haroopress](2015/formato_de_datos_de_haroopress.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de Firefox](secciones_adicionales/plugins_de_firefox.md)
