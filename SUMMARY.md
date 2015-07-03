@@ -36,6 +36,7 @@
    * [Añadir a un usuario los permisos de sudo en Fedora](2015/anadir_a_un_usuario_los_permisos_de_sudo_en_fedora.md)
    * [Instalación y primeros pasos con Haroopress](2015/instalacion_y_primeros_pasos_con_haroopress.md)
    * [Formato de datos de Haroopress](2015/formato_de_datos_de_haroopress.md)
+   * [Web con información sobre temperatura y discos duros en la cubietruck (cubieboard 3)](2015/web_con_informacion_sobre_temperatura_y_discos_duros_en_la_cubietruck_cubieboard_3.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de Firefox](secciones_adicionales/plugins_de_firefox.md)

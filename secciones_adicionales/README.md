@@ -4,7 +4,7 @@ En este capítulo voy a introducir todas las páginas/secciones del blog que no 
 
 | Nombre sección | URL en el blog |
 | -- | -- |
-| Links Interesantes | http://blog.juansal.com/p/links-interesantes.html |
-| Plugins de Firefox  | http://blog.juansal.com/p/plugins-de-firefox.html |
-| Documentos Compartidos | http://blog.juansal.com/p/documentos-compartidos.html |
+| [Links Interesantes](../secciones_adicionales/links_interesantes.md) | http://blog.juansal.com/p/links-interesantes.html |
+| [Plugins de Firefox](../secciones_adicionales/plugins_de_firefox.md)  | http://blog.juansal.com/p/plugins-de-firefox.html |
+| [Documentos Compartidos](../secciones_adicionales/documentos_compartidos.md) | http://blog.juansal.com/p/documentos-compartidos.html |
 | Web Personal | http://www.juansal.com |
