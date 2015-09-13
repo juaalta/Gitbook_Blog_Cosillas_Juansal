@@ -11,3 +11,5 @@ En esta página he creado una relación de las entradas del blog con su fecha de
 | 10 de junio de 2015 | [Formato de datos de Haroopress](../2015/formato_de_datos_de_haroopress.md) |
 | 4 de julio de 2015 | [Web con información sobre temperatura y discos duros en la cubietruck (cubieboard 3)](../2015/web_con_informacion_sobre_temperatura_y_discos_duros_en_la_cubietruck_cubieboard_3.md) |
 | 7 de julio de 2015 | [Organizar fotos por fecha usando Zoner Photo Studio](../2015\organizar_fotos_por_fecha_usando_zoner_photo_studio.md) |
+| 12 de septiembre de 2015 | [Construcción de máquina recreativa - Introducción](../2015\construccion_de_maquina_recreativa_-_introduccion.md) |
+| 13 de septiembre de 2015 | [Construcción de máquina recreativa - Mueble - Construcción del mueble](../2015\construccion_de_maquina_recreativa_-_mueble_-_construccion_del_mueble.md) |

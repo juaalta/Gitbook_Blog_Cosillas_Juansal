@@ -38,8 +38,11 @@
    * [Formato de datos de Haroopress](2015/formato_de_datos_de_haroopress.md)
    * [Web con información sobre temperatura y discos duros en la cubietruck (cubieboard 3)](2015/web_con_informacion_sobre_temperatura_y_discos_duros_en_la_cubietruck_cubieboard_3.md)
    * [Organizar fotos por fecha usando Zoner Photo Studio](2015/organizar_fotos_por_fecha_usando_zoner_photo_studio.md)
+   * [Construcción de máquina recreativa - Introducción ](2015/construccion_de_maquina_recreativa_-_introduccion.md)
+   * [Construcción de máquina recreativa - Mueble - Construcción del mueble ](2015/construccion_de_maquina_recreativa_-_mueble_-_construccion_del_mueble.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de Firefox](secciones_adicionales/plugins_de_firefox.md)
    * [Documentos Compartidos](secciones_adicionales/documentos_compartidos.md)
+   * [Proyectos](secciones_adicionales/proyectos.md)
 
