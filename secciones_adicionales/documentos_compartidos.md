@@ -14,3 +14,9 @@ En esta página iré añadiendo documentos que yo cree o que considere interesan
 ## Documentos publicados en Gitbook
 
 [Blog Cosillas de Juansal](http://juaalta.gitbooks.io/blog-cosillas-de-juansal/)
+
+[La máquina arcade de Juansal](http://juaalta.gitbooks.io/construccion-de-maquina-recreativa/)
+
+## Documentos publicados en Leanpub
+
+[La máquina arcade de Juansal](https://leanpub.com/lamquinaarcadedejuansal/)

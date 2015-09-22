@@ -2,12 +2,6 @@
 
 ## Links personales
 
-### Página personal y blog
-
-[Blog personal](http://blog.juansal.com/)
-
-[Página personal](http://www.juansal.com/)
-
 ### Redes sociales
 
 [Google+](https://plus.google.com/102995878694565141770)
@@ -27,6 +21,8 @@
 
 [Gitbook](http://juaalta.gitbooks.io/)
 
+[Leanpub](https://leanpub.com/u/juansalvadoraleixandretalens)
+
 
 ## Webs y blogs en los que colaboro:
 
@@ -36,14 +32,10 @@
 
 [The Rapha DJ](http://theraphadj.blogspot.com.es/)
 
-## Blogs de amigos:
-
-[Llibres a manta](http://llibresamanta.blogspot.com.es/)
-
-[BaixadaMagranersParty](http://baixadamagranersparty.blogspot.com.es/)
 
 ## Blogs que sigo:
 
 [El blog de Josep Ros](http://www.josepros.com/)
 
 [El blog de Virtualización en Español](http://www.josemariagonzalez.es/)
+
