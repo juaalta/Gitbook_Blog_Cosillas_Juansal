@@ -13,3 +13,12 @@ En esta página he creado una relación de las entradas del blog con su fecha de
 | 7 de julio de 2015 | [Organizar fotos por fecha usando Zoner Photo Studio](../2015\organizar_fotos_por_fecha_usando_zoner_photo_studio.md) |
 | 12 de septiembre de 2015 | [Construcción de máquina recreativa - Introducción](../2015\construccion_de_maquina_recreativa_-_introduccion.md) |
 | 13 de septiembre de 2015 | [Construcción de máquina recreativa - Mueble - Construcción del mueble](../2015\construccion_de_maquina_recreativa_-_mueble_-_construccion_del_mueble.md) |
+| 14 de septiembre de 2015 | [Construcción de máquina recreativa - Mueble - Entrada de alimentación y ventilación](../2015\construccion_de_maquina_recreativa_-_mueble_-_entrada_de_alimentacion_y_ventilacion.md) |
+| 15 de septiembre de 2015 | [Construcción de máquina recreativa - Mueble - Cableado](../2015\construccion_de_maquina_recreativa_-_mueble_-_cableado.md) |
+| 16 de septiembre de 2015 | [Construcción de máquina recreativa - Mueble - Botones de encendido y apagado de la máquina](../2015\construccion_de_maquina_recreativa_-_mueble_-_botones_de_encendido_y_apagado_de_la_maquina.md) |
+| 17 de septiembre de 2015 | [Construcción de máquina recreativa - Mueble - Bezel](../2015\construccion_de_maquina_recreativa_-_mueble_-_bezel.md) |
+| 18 de septiembre de 2015 | [Construcción de máquina recreativa - El Vídeo](../2015\construccion_de_maquina_recreativa_-_el_video.md) |
+| 19 de septiembre de 2015 | [Construcción de máquina recreativa - Los Controles](../2015\construccion_de_maquina_recreativa_-_los_controles.md) |
+| 20 de septiembre de 2015 | [Construcción de máquina recreativa - El Sonido](../2015\construccion_de_maquina_recreativa_-_el_sonido.md) |
+| 21 de septiembre de 2015 | [Construcción de máquina recreativa - Agradecimientos](../2015\construccion_de_maquina_recreativa_-_agradecimientos.md) |
+
