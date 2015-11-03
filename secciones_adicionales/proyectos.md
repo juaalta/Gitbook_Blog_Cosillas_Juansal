@@ -3,7 +3,7 @@
 En esta página iré añadiendo todos los proyectos que vaya realizando, de esta forma podrán ser encontrados más facilmente dentro del blog.
 
 ## Arduino
-Próximamente.
+[Sistema de apertura de un escaparate con arduino](http://blog.juansal.com/2015/11/sistema-de-apertura-de-un-escaparate.html)
 
 ## Máquina recreativa
 ### Documento separado por capítulos
@@ -26,6 +26,9 @@ Próximamente.
 [Construcción de máquina recreativa - El Sonido](http://blog.juansal.com/2015/09/construccion-de-maquina-recreativa_20.html)
 
 [Construcción de máquina recreativa - Agradecimientos](http://blog.juansal.com/2015/09/construccion-de-maquina-recreativa_21.html)
+
+### Documento completo
+[Construcción de máquina recreativa](http://blog.juansal.com/p/la-maquina-recreativa-de-juansal.html)
 
 ### Documento descargable
 [La máquina arcade de Juansal en Gitbook](http://juaalta.gitbooks.io/construccion-de-maquina-recreativa/)

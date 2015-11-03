@@ -48,6 +48,7 @@
    * [Construcción de máquina recreativa - Los Controles](2015/construccion_de_maquina_recreativa_-_los_controles.md)
    * [Construcción de máquina recreativa - El Sonido](2015/construccion_de_maquina_recreativa_-_el_sonido.md)
    * [Construcción de máquina recreativa - Agradecimientos](2015/construccion_de_maquina_recreativa_-_agradecimientos.md)
+   * [Sistema de apertura de un escaparate con arduino](2015/sistema_de_apertura_de_un_escaparate_con_arduino.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de Firefox](secciones_adicionales/plugins_de_firefox.md)

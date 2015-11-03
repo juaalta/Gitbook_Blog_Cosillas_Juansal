@@ -32,7 +32,7 @@ Para el escritorio uso las siguientes:
 
 #### Haroopad
 
-De todos los editores que he encontrado es el que más me gusta, considero que es el más completo de los que he visto.  
+De todos los editores que he encontrado es el que más me gusta, considero que es el más completo de los que he visto.
 Las características que han hecho que lo elija son las siguientes:
 * Es multiplataforma.
 * De fácil manejo.
@@ -43,8 +43,8 @@ Este editor lo uso para documentos que no sean muy grandes y puedan estar en un 
 
 #### Gitbook
 
-Es el mejor editor que he encontrado para crear documentos grandes, ya que permite que cada capítulo sea un documento por separado, además de que después permite que se genere una web, un pdf o un ebook con la estructura que se le ha dado al documento.  
-Además me permite publicar dentro de su plataforma para poder compartir los documentos.  
+Es el mejor editor que he encontrado para crear documentos grandes, ya que permite que cada capítulo sea un documento por separado, además de que después permite que se genere una web, un pdf o un ebook con la estructura que se le ha dado al documento.
+Además me permite publicar dentro de su plataforma para poder compartir los documentos.
 Este es el que utilizo para publicar en blog en formato ebook.
 
 En estos momentos la única pega que tiene es que el editor de escritorio está descontinuado, pero es completamente funcional.
@@ -58,8 +58,8 @@ Este es el punto en el que aún no me he decidido, por ahora uso indistintamente
 
 ### Plugins navegadores
 
-Para los navegadores uso un plugin que se llama [Markdown Here](http://markdown-here.com/).  
-Este me permite introducir el texto en formato Markdown en una casilla de texto y después convertirlo, aplicandole el estilo que se le ha configurado al plugin.  
+Para los navegadores uso un plugin que se llama [Markdown Here](http://markdown-here.com/).
+Este me permite introducir el texto en formato Markdown en una casilla de texto y después convertirlo, aplicandole el estilo que se le ha configurado al plugin.
 Sólo tiene un estilo, pero es completamente modificable.
 
 
@@ -67,14 +67,14 @@ Sólo tiene un estilo, pero es completamente modificable.
 [Página oficial](http://daringfireball.net/projects/markdown/)
 
 ### Entradas de blogs interesantes:
-[Markdown: qué es y cómo aprovecharlo](http://hipertextual.com/archivo/2013/04/que-es-markdown/)  
-[Markdown, la mejor opción para crear contenidos web](http://joedicastro.com/markdown-la-mejor-opcion-para-crear-contenidos-web.html)  
-[Learning Markdown: Write For The Web, Faster](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)  
-[whatismarkdown.com](http://whatismarkdown.com/)  
+[Markdown: qué es y cómo aprovecharlo](http://hipertextual.com/archivo/2013/04/que-es-markdown/)
+[Markdown, la mejor opción para crear contenidos web](http://joedicastro.com/markdown-la-mejor-opcion-para-crear-contenidos-web.html)
+[Learning Markdown: Write For The Web, Faster](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
+[whatismarkdown.com](http://whatismarkdown.com/)
 
 ### Editores:
-[Haroopad](http://pad.haroopress.com/)  
-[Gitbook](http://www.gitbook.com)  
-[Stackedit](https://stackedit.io/)  
-[Markable](http://markable.in)  
-[Markdown Here](http://markdown-here.com/)  
+[Haroopad](http://pad.haroopress.com/)
+[Gitbook](http://www.gitbook.com)
+[Stackedit](https://stackedit.io/)
+[Markable](http://markable.in)
+[Markdown Here](http://markdown-here.com/)
