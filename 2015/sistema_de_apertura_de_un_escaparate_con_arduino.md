@@ -11,6 +11,7 @@ Los requerimientos son los siguientes:
 - El tiempo durante el cual los cerrojos deben de estar abiertos es de 1 minuto.
 - Hay 3 cerrojos por escaparate.
 
+![Escaparate](http://2.bp.blogspot.com/-yQSxBfMhVWo/VjpDBZYuZCI/AAAAAAAAIjo/9UT0pmftEhI/s640/IMG-20150816-WA0000.jpg)
 
 ## Instrucciones
 
