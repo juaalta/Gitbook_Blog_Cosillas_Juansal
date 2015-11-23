@@ -8,3 +8,5 @@ En este capítulo voy a introducir todas las páginas/secciones del blog que no 
 | [Plugins de Firefox](../secciones_adicionales/plugins_de_firefox.md)  | http://blog.juansal.com/p/plugins-de-firefox.html |
 | [Documentos Compartidos](../secciones_adicionales/documentos_compartidos.md) | http://blog.juansal.com/p/documentos-compartidos.html |
 |[Proyectos](../secciones_adicionales/proyectos.md) | http://blog.juansal.com/p/proyectos.html |
+
+
