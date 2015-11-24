@@ -7,10 +7,10 @@ De esta máquina hice una plantilla del lateral con cartón y a partir de la pla
 He de resaltar que mi máquina es un poco más alta que la original, le di 10 cm. más de alto, ya que me parecía un poco baja la original. Aunque de pequeño recuerdo que a veces teníamos que subir a las banquetas para poder jugar bien, en ese momento parecían muy altas.
 
 
-![Introduccion_01](http://imageshack.com/a/img912/8937/qjFoGQ.jpg "Recreativa original")
+![Introduccion_01](../imagenes/recreativa/Introduccion_01.jpg "Recreativa original")
 > Recreativa original
 
 
 
-![Introduccion_02](http://imageshack.com/a/img540/3518/7ZnkYa.jpg "Mi recreativa")
+![Introduccion_02](../imagenes/recreativa/Introduccion_02.jpg "Mi recreativa")
 > Mi recreativa
