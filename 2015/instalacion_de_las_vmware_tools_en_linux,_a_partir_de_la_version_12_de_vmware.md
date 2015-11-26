@@ -1,4 +1,4 @@
-# Instalación de las vmware tools en linux, a partir de la versión 12 de vmware
+# Instalación de las vmware tools en linux, a partir de la versión 12 de VMware
 
 ## Información sobre la instalación de las vmware tools
 
