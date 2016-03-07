@@ -50,6 +50,8 @@
    * [Construcción de máquina recreativa - Agradecimientos](2015/construccion_de_maquina_recreativa_-_agradecimientos.md)
    * [Sistema de apertura de un escaparate con arduino](2015/sistema_de_apertura_de_un_escaparate_con_arduino.md)
    * [Instalación de las vmware tools en linux, a partir de la versión 12 de VMware](2015/instalacion_de_las_vmware_tools_en_linux,_a_partir_de_la_version_12_de_vmware.md)
+* [2016](2016/README.md)
+   * [Máquina virtual para trabajar con documentos en Markdown - Nueva versión](2016/maquina_virtual_para_trabajar_con_documentos_en_markdown_-_nueva_version.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de navegadores](secciones_adicionales/plugins_de_firefox.md)
