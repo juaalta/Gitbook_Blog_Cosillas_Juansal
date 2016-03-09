@@ -175,6 +175,7 @@ Es un cliente gráfico, no necesita usar la línea de comandos para su funcionam
 #### Información adicional
 
 [Página oficial de haroopad](http://pad.haroopress.com/user.html)
+
 [Blog con información de como instalar el Haroopad en Fedora](http://www.bonashen.com/post/artifice/20140805-install-haroopad-on-fedora-20-64bit)
 
 ### Gitbook
@@ -472,6 +473,7 @@ En mi caso genero los documentos en local y los subo mediante github. Después d
 #### Información adicional
 
 [Página oficial de Leanpub](https://leanpub.com/)
+
 [Manual online de Leanpub](https://leanpub.com/help/manual)
 
 ### Easybook
@@ -630,5 +632,6 @@ Para generar el libro en formato pdf se ha de ejecutar el siguiente comando:
 #### Información adicional
 
 [Página oficial de easybook](http://easybook-project.org/)
+
 [Página de github de easybook](https://github.com/javiereguiluz/easybook)
 
