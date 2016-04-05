@@ -5,6 +5,7 @@
 La finalidad del proyecto es crear un sistema selectivo de apertura de escaparates.
 
 Los requerimientos son los siguientes:
+
 - Hay un total de 8 escaparates.
 - Se han de poder abrir cada uno de los 8 escaparates de forma independiente.
 - Se han de poder abrir todos los escaparates a la vez.
