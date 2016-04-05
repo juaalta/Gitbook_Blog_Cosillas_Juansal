@@ -42,7 +42,7 @@ Aquí teneis 2 fotos del market, el cual se entra mediante la opción discover d
 ![Juego seleccionado del market](../imagenes/ouya/IMAG0702.jpg)
 
 El market me gusta por su sencillez, pero creo que deberían de mejorarlo. Aunque sencillo es un poco engorroso.
-Las imágenes se cargan cada vez, lo que hace que si te quedas sin conexión no se vea ninguna.
+Las imágenes se cargan cada vez, lo que hace que si te quedas sin conexión no se vea ninguna.  
 La primera vez que intentas ir a ver la lista de juegos, como no hay ninguno, te abre directamente el market.
 
 Otra cosa que he visto y que creo que han de mejorar es la personalización de los menús de configuración:

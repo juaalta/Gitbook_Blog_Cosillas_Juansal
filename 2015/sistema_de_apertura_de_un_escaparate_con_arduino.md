@@ -2,7 +2,7 @@
 
 ## Descripción
 
-La finalidad del proyecto es crear un sistema selectivo de apertua de escaparates.
+La finalidad del proyecto es crear un sistema selectivo de apertura de escaparates.
 
 Los requerimientos son los siguientes:
 - Hay un total de 8 escaparates.
@@ -18,6 +18,7 @@ Los requerimientos son los siguientes:
 ### Componentes usados
 
 Los componentes usados han sido:
+
 - [Fuente de alimentación de 12V y 30A](http://www.kitprinter3d.com/es/electronica/99-fuente-de-alimentacion-conmutada-12v-30a.html)
 - [Arduino nano v 3.0 5v](http://www.ebay.es/itm/311064700128?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
 - [Reductor voltaje LM2596s](http://www.aliexpress.com/item/10pcslot-LM2596s-DC-DC-step-down-power-supply-module-3A-adjustable-step-down-module-LM2596-voltage/1289330336.html)
@@ -37,7 +38,7 @@ El esquema en Fritzing es el siguiente:
 
 ![Esquema usando Fritzing](../imagenes/vitrinas_tienda/Vitrinas_tienda_bb.png)
 
-Como puede observarse en las siguientes imágenes ha sido montado sobre una placa pcb de 9x15.
+Como puede observarse en las siguientes imágenes, el sistema ha sido montado sobre una placa pcb de 9x15.
 La fuente de alimentación se ha elegido de 30A porque cada uno de los cerrojos usa 900 mA y hay 24 de estos.
 El móldulo LM2596s ha sido usado para reducir el voltaje de entrada a el arduino de 12V a 6V.
 
