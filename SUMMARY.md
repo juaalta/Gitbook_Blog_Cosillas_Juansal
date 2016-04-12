@@ -52,6 +52,7 @@
    * [Instalación de las vmware tools en linux, a partir de la versión 12 de VMware](2015/instalacion_de_las_vmware_tools_en_linux,_a_partir_de_la_version_12_de_vmware.md)
 * [2016](2016/README.md)
    * [Máquina virtual para trabajar con documentos en Markdown - Nueva versión](2016/maquina_virtual_para_trabajar_con_documentos_en_markdown_-_nueva_version.md)
+   * [Opening system of a showcase with arduino](2016/opening_system_of_a_showcase_with_arduino.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de navegadores](secciones_adicionales/plugins_de_firefox.md)

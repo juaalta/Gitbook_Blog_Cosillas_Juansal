@@ -3,10 +3,19 @@
 En esta página iré añadiendo todos los proyectos que vaya realizando, de esta forma podrán ser encontrados más facilmente dentro del blog.
 
 ## Arduino
+
+### Artículos en castellano
+
 [Sistema de apertura de un escaparate con arduino](http://blog.juansal.com/2015/11/sistema-de-apertura-de-un-escaparate.html)
 
+### Artículos en inglés
+
+[Opening system of a showcase with arduino](http://blog.juansal.com/2016/04/opening-system-of-showcase-with-arduino.html)
+
 ## Máquina recreativa
+
 ### Documento separado por capítulos
+
 [Construcción de máquina recreativa - Introducción](http://blog.juansal.com/2015/09/construccion-de-maquina-recreativa.html)
 
 [Construcción de máquina recreativa - Mueble - Construcción del mueble](http://blog.juansal.com/2015/09/construccion-de-maquina-recreativa_13.html)
