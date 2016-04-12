@@ -37,14 +37,17 @@ En esta página iré añadiendo todos los proyectos que vaya realizando, de esta
 [Construcción de máquina recreativa - Agradecimientos](http://blog.juansal.com/2015/09/construccion-de-maquina-recreativa_21.html)
 
 ### Documento completo
+
 [Construcción de máquina recreativa](http://blog.juansal.com/p/la-maquina-recreativa-de-juansal.html)
 
 ### Documento descargable
+
 [La máquina arcade de Juansal en Gitbook](http://juaalta.gitbooks.io/construccion-de-maquina-recreativa/)
 
 [La máquina arcade de Juansal en Leanpub](https://leanpub.com/lamquinaarcadedejuansal/)
 
 ## Sistema de backup con cubieboard y Bittorrent Sync
+
 [Pasos seguidos para crear un sistema de backup online usando el BitTorrent y una Cubietruck (Cubieboard 3)](http://blog.juansal.com/2014/12/pasos-seguidos-para-crear-un-sistema-de.html)
 
 [Información sobre temperatura y discos duros en la cubietruck (cubieboard 3)](http://blog.juansal.com/2014/12/informacion-sobre-temperatura-y-discos.html)
