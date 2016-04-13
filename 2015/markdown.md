@@ -69,15 +69,15 @@ Sólo tiene un estilo, pero es completamente modificable.
 
 ### Entradas de blogs interesantes:
 
-[Markdown: qué es y cómo aprovecharlo](http://hipertextual.com/archivo/2013/04/que-es-markdown/)
-[Markdown, la mejor opción para crear contenidos web](http://joedicastro.com/markdown-la-mejor-opcion-para-crear-contenidos-web.html)
-[Learning Markdown: Write For The Web, Faster](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
+[Markdown: qué es y cómo aprovecharlo](http://hipertextual.com/archivo/2013/04/que-es-markdown/)  
+[Markdown, la mejor opción para crear contenidos web](http://joedicastro.com/markdown-la-mejor-opcion-para-crear-contenidos-web.html)  
+[Learning Markdown: Write For The Web, Faster](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)  
 [whatismarkdown.com](http://whatismarkdown.com/)
 
 ### Editores:
 
-[Haroopad](http://pad.haroopress.com/)
-[Gitbook](http://www.gitbook.com)
-[Stackedit](https://stackedit.io/)
-[Markable](http://markable.in)
+[Haroopad](http://pad.haroopress.com/)  
+[Gitbook](http://www.gitbook.com)  
+[Stackedit](https://stackedit.io/)  
+[Markable](http://markable.in)  
 [Markdown Here](http://markdown-here.com/)
