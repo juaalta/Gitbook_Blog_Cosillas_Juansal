@@ -12,7 +12,7 @@ Los requerimientos son los siguientes:
 - El tiempo durante el cual los cerrojos deben de estar abiertos es de 1 minuto.
 - Hay 3 cerrojos por escaparate.
 
-![Escaparate](../imagenes/vitrinas_tienda/Descripcion_01.jpg)
+![Descripcion_01](../imagenes/vitrinas_tienda/Descripcion_01.jpg "Escaparate")
 
 ## Instrucciones
 
@@ -31,35 +31,37 @@ Los componentes usados han sido:
 - 2 resistencias de 10K
 - [Cerrojo](http://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20151102121134&SearchText=solenoid+door+lock+12v+0.8a)
 
-![Cerrojo](../imagenes/vitrinas_tienda/Cerrojo.jpg)
+![Componente_01](../imagenes/vitrinas_tienda/Cerrojo.jpg "Cerrojo")
 
 
 ### Montaje del circuito
 
 El esquema en Fritzing es el siguiente:
 
-![Esquema usando Fritzing](../imagenes/vitrinas_tienda/Vitrinas_tienda_bb.png)
+![Esquema_01](../imagenes/vitrinas_tienda/Vitrinas_tienda_bb.png "Esquema usando Fritzing")
 
 Como puede observarse en las siguientes imágenes, el sistema ha sido montado sobre una placa pcb de 9x15.
 La fuente de alimentación se ha elegido de 30A porque cada uno de los cerrojos usa 900 mA y hay 24 de estos.
 El móldulo LM2596s ha sido usado para reducir el voltaje de entrada a el arduino de 12V a 6V.
 
 Imágenes del sistema montado dentro del laboratorio:
-![Detalle superior de la placa montada](../imagenes/vitrinas_tienda/Galeria_01.JPG)
 
-![Detalle inferior de la placa montada](../imagenes/vitrinas_tienda/Galeria_02.JPG)
+![Galeria_01](../imagenes/vitrinas_tienda/Galeria_01.JPG "Detalle superior de la placa montada")
 
-![Teclado y bloque de relés](../imagenes/vitrinas_tienda/Galeria_03.jpg)
+![Galeria_02](../imagenes/vitrinas_tienda/Galeria_02.JPG "Detalle inferior de la placa montada")
 
-![Conexión del bloque de relés](../imagenes/vitrinas_tienda/Galeria_04.JPG)
+![Galeria_03](../imagenes/vitrinas_tienda/Galeria_03.jpg "Teclado y bloque de relés")
 
-![Sistema completo](../imagenes/vitrinas_tienda/Galeria_05.JPG)
+![Galeria_04](../imagenes/vitrinas_tienda/Galeria_04.JPG "Conexión del bloque de relés")
+
+![Galeria_05](../imagenes/vitrinas_tienda/Galeria_05.JPG "Sistema completo")
 
 ### Software
 
 Para comprobar la dirección I2C del bloque de relés se ha usado el programa llamado [Arduino I2c Scanner](http://todbot.com/blog/2009/11/29/i2cscanner-pde-arduino-as-i2c-bus-scanner/).
 
 Las librerías usadas han sido:
+
 * [I2C_RL8xxM](http://whatsbroken.com.au/arduino-i2c-relays/i2c_rl8xxm/): librería usada para acceder al bloque de relés.
 * Wire: librería usada para las conexiones I2C y dependencia de la librería I2C_RL8xxM.
 * [keypad](http://www.arduino.cc/playground/uploads/Code/Keypad.zip): librería usada para la gestión del teclado 4x3.
