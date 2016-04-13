@@ -2,15 +2,15 @@
 
 ## Consideraciones iniciales sobre el documento
 
-En este documento se detallan los pasos seguidos para instalar el Lubuntu en una Cubietruck (Cubieboard 3) y el BitTorrent Sync.
-Los pasos detallados son los que yo he seguido y que a mí me han funcionado.
+En este documento se detallan los pasos seguidos para instalar el Lubuntu en una Cubietruck (Cubieboard 3) y el BitTorrent Sync.  
+Los pasos detallados son los que yo he seguido y que a mí me han funcionado.  
 En mi caso en la tarjeta SD está el sistema operativo y las aplicaciones, en el disco duro sólo se encuentran los ficheros del BitTorrent Sync.
 
 ## Instalación del sistema operativo en tarjeta SD
 En este apartado se detallan los pasos para realizar la instalación del Lubuntu dentro de la tarjeta SD.
 
 ### Consideraciones iniciales
-Para realizar los pasos detallados a continuación se ha utilizado un sistema Ubuntu.
+Para realizar los pasos detallados a continuación se ha utilizado un sistema Ubuntu.  
 La tarjeta SD estaba montada como `sdb`.
 
 ### Instalación del sistema operativo dentro de la tarjeta SD
@@ -67,6 +67,7 @@ sudo umount /tmp/sdb2
 #### Configuración del teclado en español:
 
 Para esto ejecutamos el siguiente comando:
+
 ``` bash
 sudo dpkg-reconfigure keyboard-configuration
 ```
@@ -80,6 +81,7 @@ En mi caso no la he tocado, ya que uso el DHCP, que es la configuración que vie
 #### Configuración de la zona horaria:
 
 Para esto ejecutamos el siguiente comando:
+
 ``` bash
 sudo dpkg-reconfigure tzdata
 ```
@@ -91,20 +93,23 @@ Seleccionamos la zona geográfica **Europe** y la zona horaria **Madrid**.
 Para esto tenemos que crear/modificar el fichero **/etc/hosts** y añadir el nombre que deseemos que tenga la cubieboard.
 
 Para ello ejecutaremos el siguiente comando:
+
 ``` bash
 sudo nano/etc/hosts
 ```
 
 Y añadiremos la siguiente línea, donde *cubieboard* es el nombre que le asignaremos:
+
 ```
 127.0.0.1 cubieboard
 ```
 
 #### Montado del disco duro:
 
-En mi caso el disco duro es **/dev/sda1**.
-El disco duro se va a montar sobre la carpeta **/media/hdd**.
+En mi caso el disco duro es **/dev/sda1**.  
+El disco duro se va a montar sobre la carpeta **/media/hdd**.  
 Para montar el disco duro y que la configuración se guarde entre arranques del sistema operativo se ha de modificar el fichero **/etc/fstab**. Para ello añadiremos la siguiente línea a dicho fichero.
+
 ```
 /dev/sda1 /media/hdd ext4 defaults 0 2
 ```
@@ -114,6 +119,7 @@ Para montar el disco duro y que la configuración se guarde entre arranques del 
 ## Consideraciones iniciales
 
 Las consideraciones inciales son las siguientes:
+
 * El BitTorrent Sync lo descargo dentro de la carpeta **/home/linaro/Downloads/** y se descomprime dentro de **/home/linaro/Downloads/btsync**.
 * El binario lo dejo dentro de la carpeta **/usr/local/bin/**.
 * La configuración del programa está en el fichero **/etc/btsync/btsync.conf**.
@@ -161,6 +167,7 @@ nano /etc/init.d/btsync
 ```
 
 El contenido del fichero `/etc/init.d/btsync` es el siguiente:
+
 ``` bash
 #! /bin/sh
 ### BEGIN INIT INFO
@@ -258,7 +265,7 @@ update-rc.d btsync defaults
 
 ## Actualización del Bittorrent Sync
 
-Para actualiar el programa me he creado el siguiente script, este se encuentra dentro de **/home/linaro/Downloads/**. El mismo script se encarga de descargar, extraer, mover el ejecutable y reiniciar el servicio.
+Para actualiar el programa me he creado el siguiente script, este se encuentra dentro de **/home/linaro/Downloads/**. El mismo script se encarga de descargar, extraer, mover el ejecutable y reiniciar el servicio.  
 El script es el siguiente:
 
 ``` bash
