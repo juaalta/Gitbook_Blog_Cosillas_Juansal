@@ -1,23 +1,17 @@
 {
-    "pluginsConfig": {
-        "fontSettings": {
-            "theme": "night",
-            "family": "sans"
-        }
-    },
-	
+    "pluginsConfig": {},
     "links": {
         "sidebar": {
-	    "Cosillas de Juansal - Blog": "http://blog.juansal.com"
+            "Cosillas de Juansal - Blog": "http://blog.juansal.com"
         }
     },
-	
     "pdf": {
         "toc": true,
         "pageNumbers": true,
         "paperSize": "a4"
     },
-    "language": "es"
-    
-	
+    "language": "es",
+    "plugins": [
+        "image-captions"
+    ]
 }
