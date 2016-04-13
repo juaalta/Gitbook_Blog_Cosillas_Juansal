@@ -25,7 +25,7 @@ apt-get install php5
 
 ## Creación de la web:
 
-La web que se ha creado aprovecha los comandos que se comentaron en el artículo anterior sobre [monitorización de temperatura y discos duros de la cubietruck](../2014/informacion_sobre_temperatura_y_discos_duros_en_la_cubietruck_cubieboard_3.md).
+La web que se ha creado aprovecha los comandos que se comentaron en el artículo anterior sobre [monitorización de temperatura y discos duros de la cubietruck](../2014/informacion_sobre_temperatura_y_discos_duros_en_la_cubietruck_cubieboard_3.md).  
 Los pasos seguidos han sido los siguientes:
 
 * Se cambia el nombre del fichero `/var/www/index.html` por `/var/www/_index.html` para evitar que cuando nos conectemos lo arranque sin indicar página muestre la por defecto de apache.
