@@ -14,13 +14,13 @@ El resto de componentes de la máquina que requieren alimentación  lo hacen dir
 
 Gran parte de los cables han sido puestos dentro de regletas de luz, separando los que van a 220v., del resto.
 
-![Entrada luz, subida alimentación marquesina, alimentación ventiladores y cables altavoces](../imagenes/recreativa/Mueble_14.jpg "Entrada luz, subida alimentación marquesina, alimentación ventiladores y cables altavoces")
+![Mueble_14](../imagenes/recreativa/Mueble_14.jpg "Entrada luz, subida alimentación marquesina, alimentación ventiladores y cables altavoces")
 
-![Alimentación regleta, subida alimentación marquesina, cables conectados a ordenador](../imagenes/recreativa/Mueble_15.jpg "Alimentación regleta, subida alimentación marquesina, cables conectados a ordenador")
+![Mueble_15](../imagenes/recreativa/Mueble_15.jpg "Alimentación regleta, subida alimentación marquesina, cables conectados a ordenador")
 
-![Detalle cable botón encendido monitor](../imagenes/recreativa/Mueble_16.jpg "Detalle cable botón encendido monitor")
+![Mueble_16](../imagenes/recreativa/Mueble_16.jpg "Detalle cable botón encendido monitor")
 
-![Cables conectados a IPAC, alimentación luces, botones mapeados del ordenador y del monitor](../imagenes/recreativa/Mueble_17.jpg "Cables conectados a IPAC, alimentación luces, botones mapeados del ordenador y del monitor")
+![Mueble_17](../imagenes/recreativa/Mueble_17.jpg "Cables conectados a IPAC, alimentación luces, botones mapeados del ordenador y del monitor")
 
-![Detalle cables conectados al PC](../imagenes/recreativa/Mueble_18.jpg "Detalle cables conectados al PC")
+![Mueble_18](../imagenes/recreativa/Mueble_18.jpg "Detalle cables conectados al PC")
 
