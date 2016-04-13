@@ -44,20 +44,15 @@ The LM2596S module has been used to reduce the input voltage to the Arduino from
 
 Images of the system mounted inside the laboratory:
 
-![Gallery_01](../imagenes/vitrinas_tienda/Galeria_01.JPG)
-> Upper detail of the assembled PCB.
+![Upper detail of the assembled PCB](../imagenes/vitrinas_tienda/Galeria_01.JPG)
 
-![Gallery_02](../imagenes/vitrinas_tienda/Galeria_02.JPG)
-> Bottom detail of the assembled PCB.
+![Bottom detail of the assembled PCB](../imagenes/vitrinas_tienda/Galeria_02.JPG)
 
-![Gallery_03](../imagenes/vitrinas_tienda/Galeria_03.jpg)
-> Keyboard and relay block.
+![Keyboard and relay block](../imagenes/vitrinas_tienda/Galeria_03.jpg)
 
-![Gallery_04](../imagenes/vitrinas_tienda/Galeria_04.JPG)
-> Connection of the relay block.
+![Connection of the relay block](../imagenes/vitrinas_tienda/Galeria_04.JPG)
 
-![Gallery_05](../imagenes/vitrinas_tienda/Galeria_05.JPG)
-> Complete system.
+![Complete system](../imagenes/vitrinas_tienda/Galeria_05.JPG)
 
 ### Software
 
