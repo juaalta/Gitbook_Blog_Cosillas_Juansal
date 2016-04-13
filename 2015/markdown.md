@@ -52,6 +52,7 @@ En estos momentos la única pega que tiene es que el editor de escritorio está 
 ### Aplicaciones online
 
 Este es el punto en el que aún no me he decidido, por ahora uso indistintamente uno de estos dos editores:
+
 * [Stackedit](https://stackedit.io/): este me permite publicar en el blog directamente, además de que pueden cambiarse los estilos de impresión.
 * [Markable](http://markable.in): de este me gusta más la previsualización, el tamaño de letras es menor y te permite ver mejor el documento resultante.
 
@@ -67,12 +68,14 @@ Sólo tiene un estilo, pero es completamente modificable.
 [Página oficial](http://daringfireball.net/projects/markdown/)
 
 ### Entradas de blogs interesantes:
+
 [Markdown: qué es y cómo aprovecharlo](http://hipertextual.com/archivo/2013/04/que-es-markdown/)
 [Markdown, la mejor opción para crear contenidos web](http://joedicastro.com/markdown-la-mejor-opcion-para-crear-contenidos-web.html)
 [Learning Markdown: Write For The Web, Faster](http://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
 [whatismarkdown.com](http://whatismarkdown.com/)
 
 ### Editores:
+
 [Haroopad](http://pad.haroopress.com/)
 [Gitbook](http://www.gitbook.com)
 [Stackedit](https://stackedit.io/)
