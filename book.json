@@ -12,6 +12,6 @@
     },
     "language": "es",
     "plugins": [
-        "image-captions"
+        "-image-captions"
     ]
 }
