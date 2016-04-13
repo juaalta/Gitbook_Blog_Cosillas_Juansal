@@ -15,11 +15,13 @@ A partir de esta versión de vmware, si intentas instalar las vmware tools lo pr
 ### UBUNTU / DEBIAN
 
 El comando a ejecutar para realizar la instalación es el siguiente:
+
 ``` bash
 sudo apt-get install open-vm-tools
 ```
 
 Si se dispone de entorno gráfico instalado, se ha de ejecutar también el siguiente comando:
+
 ``` bash
 sudo apt-get install open-vm-tools-desktop
 ```
@@ -27,11 +29,13 @@ sudo apt-get install open-vm-tools-desktop
 ### CENTOS / FEDORA / RED-HAT
 
 El comando a ejecutar para realizar la instalación es el siguiente:
+
 ``` bash
 sudo yum install open-vm-tools
 ```
 
 Si se dispone de entorno gráfico instalado, se ha de ejecutar también el siguiente comando:
+
 ``` bash
 sudo yum install open-vm-tools-desktop
 ```
