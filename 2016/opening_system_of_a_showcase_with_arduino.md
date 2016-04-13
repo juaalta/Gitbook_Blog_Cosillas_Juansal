@@ -37,7 +37,7 @@ The components used have been:
 
 The Fritzing scheme is as follows:
 
-![Scheme using Fritzing](../imagenes/vitrinas_tienda/Vitrinas_tienda_bb.png)
+![Esquema_01](../imagenes/vitrinas_tienda/Vitrinas_tienda_bb.png "Scheme using Fritzing")
 
 As can be seen in the following images, the system has been mounted on a pcb board 9x15.
 The power supply has been chosen of 30A because each of the bolts uses 900 mA and there are 24 of these.
@@ -45,15 +45,15 @@ The LM2596S module has been used to reduce the input voltage to the Arduino from
 
 Images of the system mounted inside the laboratory:
 
-![Upper detail of the assembled PCB](../imagenes/vitrinas_tienda/Galeria_01.JPG)
+![Galeria_01](../imagenes/vitrinas_tienda/Galeria_01.JPG "Upper detail of the assembled PCB")
 
-![Bottom detail of the assembled PCB](../imagenes/vitrinas_tienda/Galeria_02.JPG)
+![Galeria_02](../imagenes/vitrinas_tienda/Galeria_02.JPG "Bottom detail of the assembled PCB")
 
-![Keyboard and relay block](../imagenes/vitrinas_tienda/Galeria_03.jpg)
+![Galeria_03](../imagenes/vitrinas_tienda/Galeria_03.jpg "Keyboard and relay block")
 
-![Connection of the relay block](../imagenes/vitrinas_tienda/Galeria_04.JPG)
+![Galeria_04](../imagenes/vitrinas_tienda/Galeria_04.JPG "Connection of the relay block")
 
-![Complete system](../imagenes/vitrinas_tienda/Galeria_05.JPG)
+![Galeria_05](../imagenes/vitrinas_tienda/Galeria_05.JPG "Complete system")
 
 ### Software
 
