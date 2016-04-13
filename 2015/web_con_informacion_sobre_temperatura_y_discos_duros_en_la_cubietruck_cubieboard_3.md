@@ -18,6 +18,7 @@ apt-get install apache2
 ### PHP
 
 Para instalar el php se ha de lanzar el siguiente comando:
+
 ``` bash
 apt-get install php5
 ```
