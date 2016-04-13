@@ -1,5 +1,9 @@
 {
-    "pluginsConfig": {},
+    "pluginsConfig": {
+    "image-captions": {
+          "caption": "Image - _CAPTION_"
+      }
+    },
     "links": {
         "sidebar": {
             "Cosillas de Juansal - Blog": "http://blog.juansal.com"
