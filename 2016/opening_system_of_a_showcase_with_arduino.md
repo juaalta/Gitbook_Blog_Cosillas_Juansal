@@ -31,7 +31,7 @@ The components used have been:
 - 2 x 10k resistors
 - [Bolt](http://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20151102121134&SearchText=solenoid+door+lock+12v+0.8a)
 
-![Bolt](../imagenes/vitrinas_tienda/Cerrojo.jpg)
+![Componente_01](../imagenes/vitrinas_tienda/Cerrojo.jpg "Bolt")
 
 ### Assembly of the circuit
 
