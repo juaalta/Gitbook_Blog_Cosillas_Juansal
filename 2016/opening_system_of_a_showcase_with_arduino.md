@@ -30,6 +30,7 @@ The components used have been:
 - [4W 2.00mm 4F/4F 6"](https://www.ereshop.com/shop/index.php?main_page=product_info&cPath=173&products_id=743&zenid=bad04c23e16790298fa3003dd156a414)
 - 2 x 10k resistors
 - [Bolt](http://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20151102121134&SearchText=solenoid+door+lock+12v+0.8a)
+
 ![Bolt](../imagenes/vitrinas_tienda/Cerrojo.jpg)
 
 ### Assembly of the circuit
