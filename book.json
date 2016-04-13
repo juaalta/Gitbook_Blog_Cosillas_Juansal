@@ -1,7 +1,7 @@
 {
     "pluginsConfig": {
     "image-captions": {
-          "caption": "Image - _CAPTION_"
+          "caption": "Imagen _BOOK_IMAGE_NUMBER_ - _CAPTION_"
       }
     },
     "links": {
