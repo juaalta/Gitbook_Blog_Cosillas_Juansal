@@ -44,20 +44,15 @@ La fuente de alimentación se ha elegido de 30A porque cada uno de los cerrojos 
 El móldulo LM2596s ha sido usado para reducir el voltaje de entrada a el arduino de 12V a 6V.
 
 Imágenes del sistema montado dentro del laboratorio:
-![Galeria_01](../imagenes/vitrinas_tienda/Galeria_01.JPG	)
-> Detalle superior de la placa montada.
+![Detalle superior de la placa montada](../imagenes/vitrinas_tienda/Galeria_01.JPG)
 
-![Galeria_02](../imagenes/vitrinas_tienda/Galeria_02.JPG)
-> Detalle inferior de la placa montada.
+![Detalle inferior de la placa montada](../imagenes/vitrinas_tienda/Galeria_02.JPG)
 
-![Galeria_03](../imagenes/vitrinas_tienda/Galeria_03.jpg)
-> Teclado y bloque de relés.
+![Teclado y bloque de relés](../imagenes/vitrinas_tienda/Galeria_03.jpg)
 
-![Galeria_04](../imagenes/vitrinas_tienda/Galeria_04.JPG)
-> Conexión del bloque de relés.
+![Conexión del bloque de relés](../imagenes/vitrinas_tienda/Galeria_04.JPG)
 
-![Galeria_05](../imagenes/vitrinas_tienda/Galeria_05.JPG)
-> Sistema completo.
+![Sistema completo](../imagenes/vitrinas_tienda/Galeria_05.JPG)
 
 ### Software
 
