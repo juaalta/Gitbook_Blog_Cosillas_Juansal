@@ -188,9 +188,8 @@ Los datos que se pueden configurar son:
 * Tema
 * Plugins
 
-
-
 Ejemplo de fichero:
+
 ``` json
 module.exports = {
     "meta": {
