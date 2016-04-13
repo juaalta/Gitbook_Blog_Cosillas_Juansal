@@ -12,7 +12,7 @@ The requirements are:
 - The time during which the locks must be opened is 1 minute.
 - There are 3 bolts for window.
 
-![Shop Window](../imagenes/vitrinas_tienda/Descripcion_01.jpg)
+![Descripcion_01](../imagenes/vitrinas_tienda/Descripcion_01.jpg "Shop Window")
 
 ## Instructions
 
