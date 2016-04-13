@@ -6,7 +6,7 @@ Como dicen en su github:
 
 Es un generador de páginas web estátias hecho con Node.js.
 
-Su web es: [http://haroopress.com](http://haroopress.com)
+Su web es: [http://haroopress.com](http://haroopress.com)  
 Si github es: [https://github.com/rhiokim/haroopress](https://github.com/rhiokim/haroopress)
 
 Su uso se vuelve un poco complicado al principio, ya que su web y el site por defecto que este crea están en idioma coreano.
