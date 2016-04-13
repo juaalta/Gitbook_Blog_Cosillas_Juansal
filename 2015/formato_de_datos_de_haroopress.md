@@ -5,6 +5,7 @@
 Los ficheros de autores y contenido (Artículos, Páginas y Presentaciones) estan compuestos por una cabecera en JSON y un contenido en Markdown.
 
 La estructura básica del fichero es:
+
 ``` json
 {
    Encabezamiento, es fijo por tipo de fichero.
@@ -59,6 +60,7 @@ Dentro de este directorio se encuentran los siguientes elementos:
 * Fichero **index.markdown**, que contendrá el contenido del artículo.
 
 #### Estructura del fichero
+
 La estructura del fichero es la siguiente:
 
 ``` json
@@ -84,12 +86,14 @@ Texto del artículo.
 ### Páginas
 
 Se encuentran en el directorio `./source/data/pages`.
-Por cada página que se crea, se crea un directorio con el nombre de esta.
+Por cada página que se crea, se crea un directorio con el nombre de esta.  
 Dentro de este directorio se encuentran los siguientes elementos:
+
 * Directorio **@img**, que contendrá las imágenes.
 * Fichero **index.markdown**, que contendrá el contenido de la página.
 
 #### Estructura del fichero
+
 La estructura del fichero es la siguiente:
 
 ``` json
@@ -121,10 +125,12 @@ Texto de la página.
 Se encuentran en el directorio `./source/data/slides`.
 Por cada presentación que se crea, se crea un directorio con el nombre de esta.
 Dentro de este directorio se encuentran los siguientes elementos:
+
 * Directorio **@img**, que contendrá las imágenes.
 * Fichero **index.markdown**, que contendrá el contenido de la presentación.
 
 #### Estructura del fichero
+
 La estructura del fichero es la siguiente:
 
 ``` json
@@ -157,6 +163,7 @@ El apartado de favoritos de la web se encuentra en el fichero ./source/data/favo
 
 El fichero consiste en una lista de links en formato markdown.
 Contenido del fichero original:
+
 ```
 [하루프레스 공식 사이트](http://haroopress.github.com)
 [하루프레스 소스 저장소](http://github.com/rhiokim/haroopress/)
@@ -173,9 +180,10 @@ Cada tema corresponde a un directorio y dentro de este directorio están los fic
 
 ### Configuración
 
-La configuración básica de Haroopres se encuentra en el fichero `config.js`, este se encuentra en la carpeta raíz de nuestra instancia local de Haroopress.
-Es un fichero en formato JSON.
+La configuración básica de Haroopres se encuentra en el fichero `config.js`, este se encuentra en la carpeta raíz de nuestra instancia local de Haroopress.  
+Es un fichero en formato JSON.  
 Los datos que se pueden configurar son:
+
 * Datos básicos de la web como: nombre, descripción, autor, etc.
 * Tema
 * Plugins
