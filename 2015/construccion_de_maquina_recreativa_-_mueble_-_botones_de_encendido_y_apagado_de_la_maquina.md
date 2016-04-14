@@ -3,7 +3,7 @@
 Para encendido y apagado de la máquina (ordenador y monitor) he incluido 5 pequeños botones en una zona no muy visible del frontal de la máquina.
 Los 3 primeros botones son los encargados del encendido y apagado, y los 2 restantes son usados para simular la inserción de monedas.
 
-![Mueble_19](../imagenes/Mueble_19.jpg "Botones de encendido y apagado de la máquina")
+![Mueble_19](../imagenes/recreativa/Mueble_19.jpg "Botones de encendido y apagado de la máquina")
 
 La funcionalidad de estos 5 botones es (de izquierda a derecha):
 
