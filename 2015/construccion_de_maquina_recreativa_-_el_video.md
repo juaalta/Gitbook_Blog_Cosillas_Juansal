@@ -16,7 +16,6 @@ Lo primero que he hecho ha sido quitarle el marco al monitor y buscar en el pane
 Después de encontrar el botón de encendido le he soldado 2 cables para poder conectar a un botón del frontal de la máquina.
 
 ![Video_03](../imagenes/recreativa/Video_03.jpg "Detalle de la botonera con los 2 cables soldados")
-> Detalle de la botonera con los 2 cables soldados
 
 Después de soldar los cables he hecho un agujero en la parte posterior del monitor para sacar los cables
 
