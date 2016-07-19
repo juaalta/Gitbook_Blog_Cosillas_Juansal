@@ -55,6 +55,7 @@
    * [Opening system of a showcase with arduino](2016/opening_system_of_a_showcase_with_arduino.md)
    * [Información sobre la CPU de la cubietruck (cubieboard 3)](2016/informacion_sobre_la_cpu_de_la_cubietruck_cubieboard_3.md)
    * [Máquina virtual de desarrollo para proyectos de AngularJS y NodeJS](2016/maquina_virtual_de_desarrollo_para_proyectos_de_angularjs_y_nodejs.md)
+   * [Monitor basado en AngularJs y NodeJs para la Cubietruck (Cubieboard 3)](2016/monitor_basado_en_angularjs_y_nodejs_para_la_cubietruck_cubieboard_3.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de navegadores](secciones_adicionales/plugins_de_firefox.md)
