@@ -56,9 +56,11 @@
    * [Información sobre la CPU de la cubietruck (cubieboard 3)](2016/informacion_sobre_la_cpu_de_la_cubietruck_cubieboard_3.md)
    * [Máquina virtual de desarrollo para proyectos de AngularJS y NodeJS](2016/maquina_virtual_de_desarrollo_para_proyectos_de_angularjs_y_nodejs.md)
    * [Monitor basado en AngularJs y NodeJs para la Cubietruck (Cubieboard 3)](2016/monitor_basado_en_angularjs_y_nodejs_para_la_cubietruck_cubieboard_3.md)
+* [2017](2017/README.md)
+   * [Sistema de detección de paso por un camino con Arduino](2017/sistema_de_deteccion_de_paso_por_un_camino_con_arduino.md)
+   * [Step detection system by a way with Arduino](../2017/step_detection_system_by_a_way_with_arduino.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de navegadores](secciones_adicionales/plugins_de_firefox.md)
    * [Documentos Compartidos](secciones_adicionales/documentos_compartidos.md)
    * [Proyectos](secciones_adicionales/proyectos.md)
-
