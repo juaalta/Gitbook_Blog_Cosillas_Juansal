@@ -58,7 +58,7 @@
    * [Monitor basado en AngularJs y NodeJs para la Cubietruck (Cubieboard 3)](2016/monitor_basado_en_angularjs_y_nodejs_para_la_cubietruck_cubieboard_3.md)
 * [2017](2017/README.md)
    * [Sistema de detección de paso por un camino con Arduino](2017/sistema_de_deteccion_de_paso_por_un_camino_con_arduino.md)
-   * [Step detection system by a way with Arduino](../2017/step_detection_system_by_a_way_with_arduino.md)
+   * [Step detection system by a way with Arduino](2017/step_detection_system_by_a_way_with_arduino.md)
 * [Secciones adicionales](secciones_adicionales/README.md)
    * [Links Interesantes](secciones_adicionales/links_interesantes.md)
    * [Plugins de navegadores](secciones_adicionales/plugins_de_firefox.md)
