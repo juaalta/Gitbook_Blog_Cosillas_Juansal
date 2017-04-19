@@ -2,7 +2,7 @@
 
 ## Descripción
 
-La finalidad del proyecto es detectar el paso de coches y personas a la entrada de un huerto y avisar con una señal sonora dentro de la casa de este.  
+La finalidad del proyecto es detectar el paso de coches y personas a la entrada de un huerto y avisar con una señal sonora dentro de la casa de este.
 Por esto este proyecto está compuesto por 2 módulos:
 
 - Módulo de detección de paso, ya sea de personas o de coches.

@@ -1,9 +1,9 @@
 {
     "pluginsConfig": {
-    "image-captions": {
-          "caption": "_CAPTION_",
-          "variable_name": "pictures"
-      }
+        "image-captions": {
+            "caption": "_CAPTION_",
+            "variable_name": "pictures"
+        }
     },
     "links": {
         "sidebar": {
@@ -17,7 +17,8 @@
     },
     "language": "es",
     "plugins": [
-        "image-captions"
+        "image-captions",
+        "mermaid-gb3"
     ],
     "variables": {
         "pictures": []
