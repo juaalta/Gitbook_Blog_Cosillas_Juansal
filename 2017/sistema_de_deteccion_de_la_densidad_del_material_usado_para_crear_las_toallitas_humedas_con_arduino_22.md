@@ -346,15 +346,15 @@ Los ficheros que componen este proyecto/programa son:
 
 Los ficheros que componen este proyecto/programa son:
 
-* ard_pantalla.ino: Este fichero es el fichero base del proyecto y contiene los siguientes elementos:
+* **ard_pantalla.ino:** Este fichero es el fichero base del proyecto y contiene los siguientes elementos:
  * Métodos básicos de un programa en Arduino (setup y loop).
  * Declaración e inicialización de variables globales.
  * Declaración de estructuras de datos internas al programa.
-* Botones.ino: Este fichero contiene los métodos utilizados para trabajar con los botones.
-* conexion_I2c.ino: Este fichero contiene la gestión de las comunicaciones I2C.
-* Menus.ino: Este fichero contiene el pintado y gestión del menú del programa.
-* Pantalla.ino: Este fichero contiene la gestión de la pantalla.
-* gestion_datos.ino: Este fichero contiene la gestión de los datos recibidos y a enviar.
+* **Botones.ino:** Este fichero contiene los métodos utilizados para trabajar con los botones.
+* **conexion_I2c.ino:** Este fichero contiene la gestión de las comunicaciones I2C.
+* **Menus.ino:** Este fichero contiene el pintado y gestión del menú del programa.
+* **Pantalla.ino:** Este fichero contiene la gestión de la pantalla.
+* **gestion_datos.ino:** Este fichero contiene la gestión de los datos recibidos y a enviar.
 
 <iframe src="https://create.arduino.cc/editor/juaalta/f1582038-8bc2-4954-b314-7a588bcfdb62/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
 

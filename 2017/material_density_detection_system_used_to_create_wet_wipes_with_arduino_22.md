@@ -323,6 +323,7 @@ The files that make up this project / program are:
  * Declaration of data structures internal to the program.
 * **datos_densidad.ino:** This file contains the data structures with the information of the density bar and the management of these.
 
+
 <iframe src="https://create.arduino.cc/editor/juaalta/000576a7-42f4-4b74-bb22-ea69ef1e2e21/preview?embed" style="height:510px;width:100%;margin:10px 0" frameborder="0"></iframe>
 
 
