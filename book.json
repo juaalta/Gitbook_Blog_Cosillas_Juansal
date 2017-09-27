@@ -17,8 +17,7 @@
     },
     "language": "es",
     "plugins": [
-        "image-captions",
-        "mermaid-gb3"
+        "image-captions"
     ],
     "variables": {
         "pictures": []
