@@ -1,4 +1,7 @@
 {
+    "title": "Blog Cosillas de Juansal",
+    "author": "Juan Salvador Aleixandre Talens",
+    "language": "es",
     "pluginsConfig": {
         "image-captions": {
             "caption": "_CAPTION_",
@@ -15,8 +18,7 @@
         "pageNumbers": true,
         "paperSize": "a4"
     },
-    "language": "es",
-    "plugins": [
+      "plugins": [
         "image-captions"
     ],
     "variables": {
